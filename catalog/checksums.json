@@ -12,6 +12,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3140,
+      "sha256": "8926415ac803e88e30b18255a4d3cf9846937990e83c9755c24d82186cfec98c"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -43,8 +53,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1600,
-      "sha256": "c374e734ceeab2d75d7b77571fd754053e1f707f182f9feed8a77dbca33830f9"
+      "bytes": 1822,
+      "sha256": "0f4ae94ab6b6302aaaf84f6582b713fa8c3c153046100d81b86edae6def611d0"
     },
     {
       "path": "catalog/release-spec.json",
@@ -78,8 +88,8 @@
     },
     {
       "path": "downloads/baile-funk-inspired-midi.zip",
-      "bytes": 34195,
-      "sha256": "7007a3ba1fce964c0bef00d4e2a1d202c9f30135fd41b6f6ffb168464bd4fa44"
+      "bytes": 35801,
+      "sha256": "ec6abf4bcc79d77833b3112c489e4aa9cd97c094fd7687fd6d43ee371465a229"
     },
     {
       "path": "index.html",
@@ -233,13 +243,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1047,
-      "sha256": "4ea40f763be28057d6e83f8fde7062195a60cf537bd6be16db6f6159efe2af37"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2979,
-      "sha256": "379da1459d79538835d5d9a0e0aa93e4ba2d195e7f98925d588b92ccd0509e3c"
+      "bytes": 1130,
+      "sha256": "8dc4633e2e39e5d974e1973ae5247adf438ed2af944e7e02180856acd3fa0597"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -253,13 +258,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 47235,
-      "sha256": "c0abe9cf1a144cdc7da7a652cae05056e5b150082fbe129914d67230b97d1fc5"
+      "bytes": 47412,
+      "sha256": "a3156f76517f4653a5a51ed4786dbc3390adf3b976691399e2d7b2570f69e54f"
     },
     {
       "path": "tools/validate_release.py",
