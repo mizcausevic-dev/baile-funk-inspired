@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+bf01,Fader Heat,pack-local equal-tempered pitch collection,A#,132,4/4,480,32,61440,midi/bf01-fader-heat/bf01-fader-heat-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bf02,Block Echo,pack-local equal-tempered pitch collection,C#,132,4/4,480,32,61440,midi/bf02-block-echo/bf02-block-echo-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bf03,Signal Dash,pack-local equal-tempered pitch collection,E,132,4/4,480,32,61440,midi/bf03-signal-dash/bf03-signal-dash-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bf04,Warm Return,pack-local equal-tempered pitch collection,B,132,4/4,480,32,61440,midi/bf04-warm-return/bf04-warm-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
