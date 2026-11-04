@@ -1,0 +1,26 @@
+{
+  "title": "Baile Funk-Inspired",
+  "study": "bf01",
+  "bpm": 132,
+  "source_audio": "preview/baile-funk-inspired-simple-synth-preview.mp3",
+  "source_audio_sha256": "60e8d2c3d6d6cdad9956061b74c90ad06d16f80ffcef379b4cbdaa3226497e58",
+  "source_midi": "midi/bf01-fader-heat/bf01-fader-heat-combined.mid",
+  "source_midi_sha256": "f6a0d22c1891ca4024230cda56564a2ceee3bc0e478741654b64ef98f2029768",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "f62247f613613740d830b006f2b71281ec1844ce3bfe14142213653a7df79546",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "04bd09513b5fef4016accb8ddb151ef85e39633b489f8c932d37c82fe8e1e1cf",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "8034e15b33f39c89786c4b0e94008803659e68752b9a912dac2296f232a7bb56",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
