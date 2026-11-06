@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/baile-funk-inspired-simple-synth-preview.mp3",
-  "preview_sha256": "60e8d2c3d6d6cdad9956061b74c90ad06d16f80ffcef379b4cbdaa3226497e58",
+  "preview_sha256": "60298ccfd7fe70b337a18d92888e49325bfe68ee3e7459e256ad1ae2ec93bd95",
   "source_midi_path": "midi/bf01-fader-heat/bf01-fader-heat-combined.mid",
-  "source_midi_sha256": "f6a0d22c1891ca4024230cda56564a2ceee3bc0e478741654b64ef98f2029768",
+  "source_midi_sha256": "657ab55869e693e7675b06a61bad62ee84d6405782cafd86742fe1198d36ecb7",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 58.182
   },
   "measurement": {
-    "sample_peak": 0.136684,
+    "sample_peak": 0.134563,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

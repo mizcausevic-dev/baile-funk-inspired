@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-04T23:37:38.476107+00:00",
+  "run_time_utc": "2026-11-06T18:04:47.593309+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -8,8 +8,8 @@
   "midi_files": [
     {
       "path": "midi/bf01-fader-heat/bf01-fader-heat-combined.mid",
-      "bytes": 8162,
-      "sha256": "f6a0d22c1891ca4024230cda56564a2ceee3bc0e478741654b64ef98f2029768",
+      "bytes": 7715,
+      "sha256": "657ab55869e693e7675b06a61bad62ee84d6405782cafd86742fe1198d36ecb7",
       "errors": []
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "path": "midi/bf01-fader-heat/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "500594cb3b798cbcdb5a24ba4e9930dce542d24c3503a66331eb5787b19def13",
+      "bytes": 1185,
+      "sha256": "89636f19f68a4ede457a36b0cf2b52d38ab085e46d2d28abd5aad1dd61ea0741",
       "errors": []
     },
     {
@@ -50,8 +50,8 @@
     },
     {
       "path": "midi/bf02-block-echo/bf02-block-echo-combined.mid",
-      "bytes": 8162,
-      "sha256": "2976910dbe3f34ce65b1ec32bdcfaf8f4bf8236448f079346be26317292296d3",
+      "bytes": 7717,
+      "sha256": "3bbf1b5b02feb518ff2169179a262c6b3d8cdb77effbe6cc840c95f4d8d03981",
       "errors": []
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "path": "midi/bf02-block-echo/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "7e054200ce6dec62af818b6b1d12e6989b09184839d6b5780f57fca092123360",
+      "bytes": 1187,
+      "sha256": "8237120198c063ca47f2aa9bc9b37b946a47d5afe17c4490c2fa0854f5a244c8",
       "errors": []
     },
     {
@@ -92,8 +92,8 @@
     },
     {
       "path": "midi/bf03-signal-dash/bf03-signal-dash-combined.mid",
-      "bytes": 8163,
-      "sha256": "e5b1be669d529993d8e625f3a3356a1d5e684db60f71c7e0ee18833e5732943f",
+      "bytes": 7716,
+      "sha256": "6c8213311ac542ad1f07608ef6bd3177b47df49dbf4436993a131029fdb17919",
       "errors": []
     },
     {
@@ -116,8 +116,8 @@
     },
     {
       "path": "midi/bf03-signal-dash/principal_motif.mid",
-      "bytes": 1633,
-      "sha256": "a8c2c31a4238a17ca63d15b283ea35539876d899e8768447b6b225b7a98c44dd",
+      "bytes": 1186,
+      "sha256": "5255ff7336d31c1879364ef2d9f47136e209633a4f9905c5368034671cc68e6d",
       "errors": []
     },
     {
@@ -134,8 +134,8 @@
     },
     {
       "path": "midi/bf04-warm-return/bf04-warm-return-combined.mid",
-      "bytes": 8162,
-      "sha256": "1adb17804e44de11e8106bd6aefe629f999c95dfb2dc965889d0d3013ebff9ed",
+      "bytes": 7714,
+      "sha256": "b053b0121713db84c3db66b43d686ef1bdf37cfd96aa607d2fb4b4e73d14ef7c",
       "errors": []
     },
     {
@@ -158,8 +158,8 @@
     },
     {
       "path": "midi/bf04-warm-return/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "5794221e42d3cf002f80cd152fca4aa56c08ea4266a32fdafd30967feffbfc5c",
+      "bytes": 1184,
+      "sha256": "cc891327640553e6da921fe8a159c71dd82239ace99cf45b245c604100e5f8de",
       "errors": []
     },
     {
