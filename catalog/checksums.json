@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/baile-funk-inspired-midi.zip",
-      "bytes": 34009,
-      "sha256": "5943d5c65834522402e15ae29dcae67acbf43761f76b7279ee0733c8d48601ce"
+      "bytes": 36535,
+      "sha256": "5cf8d8e12ac0a4635e52e7e570edc8a23729228327006b274a7762b3cda4bd73"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10307,
-      "sha256": "feff0cb2d80169aa341eb744d6a7e67ef8e4e0d82ccfc979cf12910fafd4e9f9"
+      "bytes": 10497,
+      "sha256": "a1fc883530f860f8af9313f3a0cb568d53d947568dfc534dc836bbb42724e7c5"
     },
     {
       "path": "midi/bf01-fader-heat/bf01-fader-heat-combined.mid",
@@ -257,6 +257,11 @@
       "sha256": "86ffd516a15bdd42bc57f1592a8a3397c0c320c450f8c7ffef2b423f416c7eca"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 790,
       "sha256": "69c690c42eb9fd19408091e1efcc370f84bef3d3c4d9c9e20dd674b17673ffce"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3358,
-      "sha256": "611017cb496f2e6c85f0c04fb79f4cc43b0a5273ae596308673ce1dcebcc3740"
+      "bytes": 3473,
+      "sha256": "b45b10f5d99109eaa4932145b8ccfe894c2422fda8170a0b9ee2e1e88cf5e518"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
